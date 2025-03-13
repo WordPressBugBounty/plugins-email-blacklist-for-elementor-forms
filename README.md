@@ -1,0 +1,1 @@
+# plugins-email-blacklist-for-elementor-forms
